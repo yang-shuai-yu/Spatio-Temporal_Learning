@@ -1,0 +1,8 @@
+**/data
+**/models
+**/results
+**/mydata
+**/datasets
+*.zip
+/LDPTrace
+/PrivTrace

@@ -1,0 +1,12 @@
+***********************************
+Dataset: Porto
+Trajectory Length: 400
+Guidance scale: 3
+Number of steps: 500
+Beta_schedule: linear
+Beta_strat: 0.0001
+Beta_end: 0.05
+Epochs: 200
+batch_size: 32
+***********************************
+<----Epoch-1---->
