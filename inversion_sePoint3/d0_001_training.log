@@ -1,0 +1,160 @@
+2023-12-14 12:43:27,853 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-14 12:43:27,853 - root - INFO - the date of the experiment: 2023-12-14 12:43:27
+2023-12-14 13:27:50,010 - root - INFO - the date of the experiment: 2023-12-14 13:27:50
+2023-12-27 12:09:17,297 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 12:09:17,297 - root - INFO - the date of the experiment: 2023-12-27 12:09:17
+2023-12-27 12:10:40,639 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 12:10:40,639 - root - INFO - the date of the experiment: 2023-12-27 12:10:40
+2023-12-27 12:13:10,053 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 12:13:10,053 - root - INFO - the date of the experiment: 2023-12-27 12:13:10
+2023-12-27 12:14:17,333 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 12:14:17,334 - root - INFO - the date of the experiment: 2023-12-27 12:14:17
+2023-12-27 12:16:04,549 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 12:16:04,550 - root - INFO - the date of the experiment: 2023-12-27 12:16:04
+2023-12-27 12:27:42,401 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 12:27:42,401 - root - INFO - the date of the experiment: 2023-12-27 12:27:42
+2023-12-27 12:30:21,566 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 12:30:21,566 - root - INFO - the date of the experiment: 2023-12-27 12:30:21
+2023-12-27 12:47:36,304 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2023-12-27 12:47:36,304 - root - INFO - the date of the experiment: 2023-12-27 12:47:36
+2023-12-27 12:51:52,040 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2023-12-27 12:51:52,040 - root - INFO - the date of the experiment: 2023-12-27 12:51:52
+2023-12-27 13:24:50,501 - root - INFO - the date of the experiment: 2023-12-27 13:24:50
+2023-12-27 22:57:16,939 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 22:57:16,939 - root - INFO - the date of the experiment: 2023-12-27 22:57:16
+2023-12-27 23:03:33,445 - root - INFO - the date of the experiment: 2023-12-27 23:03:33
+2023-12-27 23:28:21,682 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-27 23:28:21,682 - root - INFO - the date of the experiment: 2023-12-27 23:28:21
+2023-12-27 23:29:58,375 - root - INFO - the date of the experiment: 2023-12-27 23:29:58
+2023-12-28 10:51:03,870 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-28 10:51:03,870 - root - INFO - the date of the experiment: 2023-12-28 10:51:03
+2023-12-28 10:52:41,766 - root - INFO - the date of the experiment: 2023-12-28 10:52:41
+2023-12-28 12:16:41,037 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-28 12:16:41,037 - root - INFO - the date of the experiment: 2023-12-28 12:16:41
+2023-12-28 12:18:18,651 - root - INFO - the date of the experiment: 2023-12-28 12:18:18
+2023-12-28 14:36:40,629 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-28 14:36:40,629 - root - INFO - the date of the experiment: 2023-12-28 14:36:40
+2023-12-28 14:50:33,680 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-28 14:50:33,680 - root - INFO - the date of the experiment: 2023-12-28 14:50:33
+2023-12-28 14:59:57,791 - root - INFO - the date of the experiment: 2023-12-28 14:59:57
+2023-12-28 15:18:44,682 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 256, hid_dim: 512
+2023-12-28 15:18:44,683 - root - INFO - the date of the experiment: 2023-12-28 15:18:44
+2023-12-28 15:28:12,632 - root - INFO - the date of the experiment: 2023-12-28 15:28:12
+2023-12-28 15:33:48,812 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 256, hid_dim: 512
+2023-12-28 15:33:48,812 - root - INFO - the date of the experiment: 2023-12-28 15:33:48
+2023-12-28 15:42:52,387 - root - INFO - the date of the experiment: 2023-12-28 15:42:52
+2023-12-28 15:46:00,994 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2023-12-28 15:46:00,994 - root - INFO - the date of the experiment: 2023-12-28 15:46:00
+2023-12-28 15:47:02,055 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 256, hid_dim: 512
+2023-12-28 15:47:02,055 - root - INFO - the date of the experiment: 2023-12-28 15:47:02
+2023-12-28 16:04:28,423 - root - INFO - the date of the experiment: 2023-12-28 16:04:28
+2023-12-28 17:01:02,672 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2023-12-28 17:01:02,672 - root - INFO - the date of the experiment: 2023-12-28 17:01:02
+2023-12-28 17:11:16,578 - root - INFO - the date of the experiment: 2023-12-28 17:11:16
+2024-03-20 23:17:43,820 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-20 23:17:43,821 - root - INFO - the date of the experiment: 2024-03-20 23:17:43
+2024-03-20 23:26:41,136 - root - INFO - the date of the experiment: 2024-03-20 23:26:41
+2024-03-20 23:40:08,616 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 256, hid_dim: 512
+2024-03-20 23:40:08,616 - root - INFO - the date of the experiment: 2024-03-20 23:40:08
+2024-03-20 23:49:11,045 - root - INFO - the date of the experiment: 2024-03-20 23:49:11
+2024-03-21 00:19:37,152 - root - INFO - data_path: ./data/, emb_model: transformer, emb_dim: 128, hid_dim: 512
+2024-03-21 00:19:37,152 - root - INFO - the date of the experiment: 2024-03-21 00:19:37
+2024-03-21 00:29:08,882 - root - INFO - the date of the experiment: 2024-03-21 00:29:08
+2024-03-21 00:29:39,452 - root - INFO - data_path: ./data/, emb_model: transformer, emb_dim: 256, hid_dim: 512
+2024-03-21 00:29:39,453 - root - INFO - the date of the experiment: 2024-03-21 00:29:39
+2024-03-21 00:38:35,969 - root - INFO - the date of the experiment: 2024-03-21 00:38:35
+2024-03-21 16:00:13,751 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2024-03-21 16:00:13,751 - root - INFO - the date of the experiment: 2024-03-21 16:00:13
+2024-03-21 16:07:17,484 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2024-03-21 16:07:17,484 - root - INFO - the date of the experiment: 2024-03-21 16:07:17
+2024-03-21 16:07:25,869 - root - INFO - the date of the test experiment: 2024-03-21 16:07:25
+2024-03-21 16:07:25,869 - root - INFO - test_loss: 0.2579339248169759
+2024-03-21 16:08:06,969 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 256, hid_dim: 512
+2024-03-21 16:08:06,969 - root - INFO - the date of the experiment: 2024-03-21 16:08:06
+2024-03-21 16:08:33,466 - root - INFO - the date of the test experiment: 2024-03-21 16:08:33
+2024-03-21 16:08:33,466 - root - INFO - test_loss: 0.2847321371601266
+2024-03-21 16:09:19,876 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 256, hid_dim: 512
+2024-03-21 16:09:19,876 - root - INFO - the date of the experiment: 2024-03-21 16:09:19
+2024-03-21 16:09:27,289 - root - INFO - the date of the test experiment: 2024-03-21 16:09:27
+2024-03-21 16:09:27,289 - root - INFO - test_loss: 0.2847321350008819
+2024-03-21 16:10:02,523 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2024-03-21 16:10:02,523 - root - INFO - the date of the experiment: 2024-03-21 16:10:02
+2024-03-21 16:10:10,143 - root - INFO - the date of the test experiment: 2024-03-21 16:10:10
+2024-03-21 16:10:10,143 - root - INFO - test_loss: 0.0010090427292261724
+2024-03-21 16:10:22,508 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 256, hid_dim: 512
+2024-03-21 16:10:22,509 - root - INFO - the date of the experiment: 2024-03-21 16:10:22
+2024-03-21 16:10:30,109 - root - INFO - the date of the test experiment: 2024-03-21 16:10:30
+2024-03-21 16:10:30,109 - root - INFO - test_loss: 0.001116339859158204
+2024-03-21 16:11:09,891 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2024-03-21 16:11:09,891 - root - INFO - the date of the experiment: 2024-03-21 16:11:09
+2024-03-21 16:11:31,498 - root - INFO - the date of the test experiment: 2024-03-21 16:11:31
+2024-03-21 16:11:31,498 - root - INFO - test_loss: 0.00019082977416277062
+2024-03-21 16:16:20,649 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 256, hid_dim: 512
+2024-03-21 16:16:20,649 - root - INFO - the date of the experiment: 2024-03-21 16:16:20
+2024-03-21 16:16:45,762 - root - INFO - the date of the test experiment: 2024-03-21 16:16:45
+2024-03-21 16:16:45,762 - root - INFO - test_loss: 0.0001857000026146727
+2024-03-21 16:17:37,487 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:17:37,487 - root - INFO - the date of the experiment: 2024-03-21 16:17:37
+2024-03-21 16:24:44,268 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:24:44,269 - root - INFO - the date of the experiment: 2024-03-21 16:24:44
+2024-03-21 16:25:04,342 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 256, hid_dim: 512
+2024-03-21 16:25:04,342 - root - INFO - the date of the experiment: 2024-03-21 16:25:04
+2024-03-21 16:25:41,175 - root - INFO - the date of the test experiment: 2024-03-21 16:25:41
+2024-03-21 16:25:41,176 - root - INFO - test_loss: 0.0017516773022046893
+2024-03-21 16:26:11,724 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:26:11,724 - root - INFO - the date of the experiment: 2024-03-21 16:26:11
+2024-03-21 16:26:49,178 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:26:49,178 - root - INFO - the date of the experiment: 2024-03-21 16:26:49
+2024-03-21 16:27:37,901 - root - INFO - data_path: ./data/, emb_model: transformer, emb_dim: 128, hid_dim: 512
+2024-03-21 16:27:37,901 - root - INFO - the date of the experiment: 2024-03-21 16:27:37
+2024-03-21 16:28:05,907 - root - INFO - the date of the test experiment: 2024-03-21 16:28:05
+2024-03-21 16:28:05,907 - root - INFO - test_loss: 0.0035199756158670044
+2024-03-21 16:32:56,391 - root - INFO - data_path: ./data/, emb_model: transformer, emb_dim: 256, hid_dim: 512
+2024-03-21 16:32:56,391 - root - INFO - the date of the experiment: 2024-03-21 16:32:56
+2024-03-21 16:33:33,504 - root - INFO - the date of the test experiment: 2024-03-21 16:33:33
+2024-03-21 16:33:33,504 - root - INFO - test_loss: 0.0026779463151351186
+2024-03-21 16:35:03,946 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:35:03,947 - root - INFO - the date of the experiment: 2024-03-21 16:35:03
+2024-03-21 16:37:43,271 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:37:43,271 - root - INFO - the date of the experiment: 2024-03-21 16:37:43
+2024-03-21 16:38:58,286 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:38:58,287 - root - INFO - the date of the experiment: 2024-03-21 16:38:58
+2024-03-21 16:42:23,414 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:42:23,414 - root - INFO - the date of the experiment: 2024-03-21 16:42:23
+2024-03-21 16:48:13,597 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:48:13,597 - root - INFO - the date of the experiment: 2024-03-21 16:48:13
+2024-03-21 16:48:26,328 - root - INFO - the date of the test experiment: 2024-03-21 16:48:26
+2024-03-21 16:48:26,328 - root - INFO - test_loss: 1.8035608469300968
+2024-03-21 16:49:51,203 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 256, hid_dim: 512
+2024-03-21 16:49:51,204 - root - INFO - the date of the experiment: 2024-03-21 16:49:51
+2024-03-21 16:50:02,459 - root - INFO - the date of the test experiment: 2024-03-21 16:50:02
+2024-03-21 16:50:02,459 - root - INFO - test_loss: 0.0017389305366743
+2024-03-21 16:51:11,172 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:51:11,173 - root - INFO - the date of the experiment: 2024-03-21 16:51:11
+2024-03-21 16:51:24,251 - root - INFO - the date of the test experiment: 2024-03-21 16:51:24
+2024-03-21 16:51:24,252 - root - INFO - test_loss: 1.8060838318174812
+2024-03-21 16:51:52,406 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 16:51:52,406 - root - INFO - the date of the experiment: 2024-03-21 16:51:52
+2024-03-21 17:18:50,904 - root - INFO - the date of the experiment: 2024-03-21 17:18:50
+2024-03-21 17:19:21,213 - root - INFO - data_path: ./data/, emb_model: start, emb_dim: 128, hid_dim: 512
+2024-03-21 17:19:21,213 - root - INFO - the date of the experiment: 2024-03-21 17:19:21
+2024-03-21 17:19:34,972 - root - INFO - the date of the test experiment: 2024-03-21 17:19:34
+2024-03-21 17:19:34,973 - root - INFO - test_loss: 0.0017124064727152466
+2024-03-21 19:03:05,104 - root - INFO - data_path: ./data/, emb_model: random, emb_dim: 128, hid_dim: 512
+2024-03-21 19:03:05,105 - root - INFO - the date of the experiment: 2024-03-21 19:03:05
+2024-03-21 19:03:19,220 - root - INFO - data_path: ./data/, emb_model: random, emb_dim: 128, hid_dim: 512
+2024-03-21 19:03:19,220 - root - INFO - the date of the experiment: 2024-03-21 19:03:19
+2024-03-21 19:30:54,741 - root - INFO - the date of the experiment: 2024-03-21 19:30:54
+2024-03-21 19:34:15,213 - root - INFO - data_path: ./data/, emb_model: random, emb_dim: 128, hid_dim: 512
+2024-03-21 19:34:15,213 - root - INFO - the date of the experiment: 2024-03-21 19:34:15
+2024-03-21 19:34:34,059 - root - INFO - data_path: ./data/, emb_model: random, emb_dim: 128, hid_dim: 512
+2024-03-21 19:34:34,059 - root - INFO - the date of the experiment: 2024-03-21 19:34:34
+2024-03-21 19:34:47,024 - root - INFO - the date of the test experiment: 2024-03-21 19:34:47
+2024-03-21 19:34:47,024 - root - INFO - test_loss: 0.01092079615481435
+2024-03-21 19:35:53,433 - root - INFO - data_path: ./data/, emb_model: random, emb_dim: 256, hid_dim: 512
+2024-03-21 19:35:53,433 - root - INFO - the date of the experiment: 2024-03-21 19:35:53
+2024-03-21 20:04:56,253 - root - INFO - the date of the experiment: 2024-03-21 20:04:56
+2024-03-21 20:23:54,728 - root - INFO - data_path: ./data/, emb_model: random, emb_dim: 256, hid_dim: 512
+2024-03-21 20:23:54,728 - root - INFO - the date of the experiment: 2024-03-21 20:23:54
+2024-03-21 20:24:12,841 - root - INFO - the date of the test experiment: 2024-03-21 20:24:12
+2024-03-21 20:24:12,841 - root - INFO - test_loss: 0.010923165228858495

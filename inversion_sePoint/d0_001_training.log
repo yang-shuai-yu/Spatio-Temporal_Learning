@@ -1,0 +1,3 @@
+2023-12-14 12:43:27,853 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-14 12:43:27,853 - root - INFO - the date of the experiment: 2023-12-14 12:43:27
+2023-12-14 13:27:50,010 - root - INFO - the date of the experiment: 2023-12-14 13:27:50

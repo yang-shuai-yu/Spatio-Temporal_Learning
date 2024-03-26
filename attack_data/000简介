@@ -1,0 +1,3 @@
+该目录中是攻击的时候使用的轨迹数据
+    use_of_data中有具体的使用方法
+    NEUTRAJ-Adversarial中是对抗训练获取的embedding用于inversion之间进行格式转换操作

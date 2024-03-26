@@ -1,0 +1,40 @@
+2023-12-01 15:11:52,023 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-01 15:11:52,023 - root - INFO - the date of the experiment: 2023-12-01 15:11:52
+2023-12-01 15:53:39,321 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-01 15:53:39,321 - root - INFO - the date of the experiment: 2023-12-01 15:53:39
+2023-12-01 16:05:40,102 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-01 16:05:40,102 - root - INFO - the date of the experiment: 2023-12-01 16:05:40
+2023-12-01 16:06:03,688 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-01 16:06:03,688 - root - INFO - the date of the experiment: 2023-12-01 16:06:03
+2023-12-01 16:19:33,863 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-01 16:19:33,863 - root - INFO - the date of the experiment: 2023-12-01 16:19:33
+2023-12-01 16:20:23,453 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-01 16:20:23,454 - root - INFO - the date of the experiment: 2023-12-01 16:20:23
+2023-12-01 16:27:31,182 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-01 16:27:31,182 - root - INFO - the date of the experiment: 2023-12-01 16:27:31
+2023-12-01 16:51:16,465 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-01 16:51:16,465 - root - INFO - the date of the experiment: 2023-12-01 16:51:16
+2023-12-03 11:15:31,598 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-03 11:15:31,598 - root - INFO - the date of the experiment: 2023-12-03 11:15:31
+2023-12-03 11:23:35,150 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-03 11:23:35,150 - root - INFO - the date of the experiment: 2023-12-03 11:23:35
+2023-12-03 11:35:36,137 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-03 11:35:36,137 - root - INFO - the date of the experiment: 2023-12-03 11:35:36
+2023-12-03 11:36:21,217 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-03 11:36:21,218 - root - INFO - the date of the experiment: 2023-12-03 11:36:21
+2023-12-03 11:45:00,050 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-03 11:45:00,050 - root - INFO - the date of the experiment: 2023-12-03 11:45:00
+2023-12-03 11:46:53,993 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 128, hid_dim: 512
+2023-12-03 11:46:53,993 - root - INFO - the date of the experiment: 2023-12-03 11:46:53
+2023-12-03 13:16:59,948 - root - INFO - the date of the experiment: 2023-12-03 13:16:59
+2023-12-05 10:54:43,107 - root - INFO - data_path: ./data/, emb_model: neutraj, emb_dim: 256, hid_dim: 512
+2023-12-05 10:54:43,107 - root - INFO - the date of the experiment: 2023-12-05 10:54:43
+2023-12-05 13:01:39,483 - root - INFO - the date of the experiment: 2023-12-05 13:01:39
+2023-12-05 13:20:24,350 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2023-12-05 13:20:24,350 - root - INFO - the date of the experiment: 2023-12-05 13:20:24
+2023-12-05 13:22:42,125 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 128, hid_dim: 512
+2023-12-05 13:22:42,125 - root - INFO - the date of the experiment: 2023-12-05 13:22:42
+2023-12-05 14:49:14,425 - root - INFO - the date of the experiment: 2023-12-05 14:49:14
+2023-12-05 14:53:43,006 - root - INFO - data_path: ./data/, emb_model: t2vec, emb_dim: 256, hid_dim: 512
+2023-12-05 14:53:43,006 - root - INFO - the date of the experiment: 2023-12-05 14:53:43
+2023-12-05 16:29:16,334 - root - INFO - the date of the experiment: 2023-12-05 16:29:16
