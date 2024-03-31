@@ -1,0 +1,269 @@
+2024-03-30 17:41:56,428 - root - INFO - Namespace(batch_size=64, d_inner=2048, d_k=64, d_model=128, d_v=64, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='results/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 17:56:06,627 - root - INFO - Namespace(batch_size=64, d_inner=2048, d_k=64, d_model=128, d_v=64, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='results/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 17:56:58,972 - root - INFO - Namespace(batch_size=64, d_inner=2048, d_k=64, d_model=128, d_v=64, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='results/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 17:58:28,529 - root - INFO - Namespace(batch_size=64, d_inner=2048, d_k=64, d_model=128, d_v=64, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='results/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 18:01:42,580 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='results/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 18:06:52,175 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='results/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 18:11:50,313 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='results/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 18:12:06,040 - root - INFO - Training...
+2024-03-30 18:12:06,040 - root - INFO - the date of the experiment: 2024-03-30 18:12:06
+2024-03-30 20:38:49,887 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 20:39:11,517 - root - INFO - Start training...
+2024-03-30 20:40:41,802 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 20:41:01,538 - root - INFO - Start training...
+2024-03-30 20:42:53,367 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 20:43:06,331 - root - INFO - Start training...
+2024-03-30 20:58:44,794 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 20:59:02,030 - root - INFO - Start training...
+2024-03-30 21:03:06,099 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:03:18,799 - root - INFO - Start training...
+2024-03-30 21:03:50,797 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:04:05,865 - root - INFO - Start training...
+2024-03-30 21:04:52,150 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:05:07,260 - root - INFO - Start training...
+2024-03-30 21:07:01,535 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:07:16,846 - root - INFO - Start training...
+2024-03-30 21:08:07,409 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:08:20,451 - root - INFO - Start training...
+2024-03-30 21:09:52,885 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:10:10,432 - root - INFO - Start training...
+2024-03-30 21:11:57,343 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:12:11,639 - root - INFO - Start training...
+2024-03-30 21:15:54,157 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:16:11,213 - root - INFO - Start training...
+2024-03-30 21:20:38,315 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:20:51,501 - root - INFO - Start training...
+2024-03-30 21:25:48,454 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:26:00,878 - root - INFO - Start training...
+2024-03-30 21:27:11,305 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=4000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:27:23,852 - root - INFO - Start training...
+2024-03-30 21:31:32,007 - root - INFO - Loss 0.0065, Acc 0.02
+2024-03-30 21:40:48,957 - root - INFO - Namespace(batch_size=64, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=8000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 21:41:05,449 - root - INFO - Start training...
+2024-03-30 21:45:09,993 - root - INFO - Loss 0.0067, Acc 0.03
+2024-03-30 21:45:13,365 - root - INFO - Loss 0.0064, Acc 0.03
+2024-03-30 21:49:32,256 - root - INFO - Loss 0.0053, Acc 0.06
+2024-03-30 21:49:35,521 - root - INFO - Loss 0.0080, Acc 0.02
+2024-03-30 21:53:34,144 - root - INFO - Loss 0.0055, Acc 0.05
+2024-03-30 21:53:37,516 - root - INFO - Loss 0.0079, Acc 0.02
+2024-03-30 21:57:41,609 - root - INFO - Loss 0.0052, Acc 0.06
+2024-03-30 21:57:45,336 - root - INFO - Loss 0.0084, Acc 0.02
+2024-03-30 22:01:46,485 - root - INFO - Loss 0.0049, Acc 0.08
+2024-03-30 22:01:49,732 - root - INFO - Loss 0.0083, Acc 0.03
+2024-03-30 22:05:49,428 - root - INFO - Loss 0.0047, Acc 0.08
+2024-03-30 22:05:53,001 - root - INFO - Loss 0.0087, Acc 0.03
+2024-03-30 22:09:55,795 - root - INFO - Loss 0.0046, Acc 0.09
+2024-03-30 22:09:59,272 - root - INFO - Loss 0.0088, Acc 0.03
+2024-03-30 22:13:59,304 - root - INFO - Loss 0.0045, Acc 0.10
+2024-03-30 22:14:02,381 - root - INFO - Loss 0.0089, Acc 0.03
+2024-03-30 22:18:04,465 - root - INFO - Loss 0.0045, Acc 0.10
+2024-03-30 22:18:08,109 - root - INFO - Loss 0.0094, Acc 0.03
+2024-03-30 22:22:09,401 - root - INFO - Loss 0.0044, Acc 0.10
+2024-03-30 22:22:13,109 - root - INFO - Loss 0.0091, Acc 0.03
+2024-03-30 22:22:13,112 - root - INFO - the date of the experiment: 2024-03-30 22:22:13
+2024-03-30 22:43:22,920 - root - INFO - Namespace(batch_size=128, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=10, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=16000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 22:43:38,882 - root - INFO - Namespace(batch_size=128, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=100, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=16000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 22:43:51,236 - root - INFO - Start training...
+2024-03-30 22:48:03,529 - root - INFO - Namespace(batch_size=128, cuda=True, d_inner=2048, d_k=64, d_model=128, d_v=64, d_word_vec=128, dropout=0.1, emb_model='transformer', emb_path='data/embs/', embs_share_weight=False, epoch=100, grid_path='data/grids/t2vec_partition/', label_smoothing=False, lr_mul=2.0, mode='train', n_head=8, n_layers=6, n_warmup_steps=16000, no_cuda=False, output_dir='models/', proj_share_weight=False, save_mode='best', scale_emb_or_prj='prj', seed=1234, src_pad_idx=0, src_vocab_size=18866, trg_pad_idx=0, trg_vocab_size=18866, use_tb=False)
+2024-03-30 22:48:15,986 - root - INFO - Start training...
+2024-03-30 22:50:21,721 - root - INFO - Loss 0.0041, Acc 0.01
+2024-03-30 22:50:23,553 - root - INFO - Loss 0.0035, Acc 0.02
+2024-03-30 22:52:44,737 - root - INFO - Loss 0.0029, Acc 0.04
+2024-03-30 22:52:47,239 - root - INFO - Loss 0.0036, Acc 0.02
+2024-03-30 22:54:54,288 - root - INFO - Loss 0.0025, Acc 0.08
+2024-03-30 22:54:56,000 - root - INFO - Loss 0.0037, Acc 0.03
+2024-03-30 22:57:00,045 - root - INFO - Loss 0.0022, Acc 0.11
+2024-03-30 22:57:02,224 - root - INFO - Loss 0.0038, Acc 0.04
+2024-03-30 22:59:07,144 - root - INFO - Loss 0.0021, Acc 0.13
+2024-03-30 22:59:09,208 - root - INFO - Loss 0.0039, Acc 0.04
+2024-03-30 23:01:13,622 - root - INFO - Loss 0.0020, Acc 0.15
+2024-03-30 23:01:15,471 - root - INFO - Loss 0.0038, Acc 0.04
+2024-03-30 23:03:21,392 - root - INFO - Loss 0.0020, Acc 0.15
+2024-03-30 23:03:23,070 - root - INFO - Loss 0.0037, Acc 0.04
+2024-03-30 23:05:28,844 - root - INFO - Loss 0.0020, Acc 0.15
+2024-03-30 23:05:30,625 - root - INFO - Loss 0.0042, Acc 0.04
+2024-03-30 23:07:37,165 - root - INFO - Loss 0.0020, Acc 0.14
+2024-03-30 23:07:39,037 - root - INFO - Loss 0.0040, Acc 0.04
+2024-03-30 23:09:45,568 - root - INFO - Loss 0.0021, Acc 0.13
+2024-03-30 23:09:47,557 - root - INFO - Loss 0.0043, Acc 0.03
+2024-03-30 23:11:48,050 - root - INFO - Loss 0.0021, Acc 0.13
+2024-03-30 23:11:49,955 - root - INFO - Loss 0.0042, Acc 0.03
+2024-03-30 23:13:50,168 - root - INFO - Loss 0.0022, Acc 0.12
+2024-03-30 23:13:52,093 - root - INFO - Loss 0.0042, Acc 0.03
+2024-03-30 23:15:52,700 - root - INFO - Loss 0.0022, Acc 0.11
+2024-03-30 23:15:54,540 - root - INFO - Loss 0.0044, Acc 0.03
+2024-03-30 23:17:51,881 - root - INFO - Loss 0.0021, Acc 0.12
+2024-03-30 23:17:53,540 - root - INFO - Loss 0.0044, Acc 0.03
+2024-03-30 23:19:51,088 - root - INFO - Loss 0.0020, Acc 0.14
+2024-03-30 23:19:52,710 - root - INFO - Loss 0.0045, Acc 0.03
+2024-03-30 23:21:51,177 - root - INFO - Loss 0.0020, Acc 0.14
+2024-03-30 23:21:53,100 - root - INFO - Loss 0.0046, Acc 0.04
+2024-03-30 23:23:50,694 - root - INFO - Loss 0.0019, Acc 0.15
+2024-03-30 23:23:52,526 - root - INFO - Loss 0.0045, Acc 0.04
+2024-03-30 23:25:54,246 - root - INFO - Loss 0.0019, Acc 0.16
+2024-03-30 23:25:56,660 - root - INFO - Loss 0.0046, Acc 0.04
+2024-03-30 23:27:55,286 - root - INFO - Loss 0.0019, Acc 0.16
+2024-03-30 23:27:57,244 - root - INFO - Loss 0.0046, Acc 0.04
+2024-03-30 23:29:59,235 - root - INFO - Loss 0.0019, Acc 0.17
+2024-03-30 23:30:01,040 - root - INFO - Loss 0.0048, Acc 0.04
+2024-03-30 23:32:07,279 - root - INFO - Loss 0.0018, Acc 0.17
+2024-03-30 23:32:09,266 - root - INFO - Loss 0.0046, Acc 0.04
+2024-03-30 23:34:11,850 - root - INFO - Loss 0.0018, Acc 0.18
+2024-03-30 23:34:14,039 - root - INFO - Loss 0.0047, Acc 0.04
+2024-03-30 23:36:23,741 - root - INFO - Loss 0.0018, Acc 0.18
+2024-03-30 23:36:25,733 - root - INFO - Loss 0.0047, Acc 0.04
+2024-03-30 23:38:34,283 - root - INFO - Loss 0.0018, Acc 0.18
+2024-03-30 23:38:36,551 - root - INFO - Loss 0.0049, Acc 0.04
+2024-03-30 23:40:42,315 - root - INFO - Loss 0.0018, Acc 0.19
+2024-03-30 23:40:44,113 - root - INFO - Loss 0.0049, Acc 0.04
+2024-03-30 23:42:53,441 - root - INFO - Loss 0.0017, Acc 0.19
+2024-03-30 23:42:55,202 - root - INFO - Loss 0.0050, Acc 0.04
+2024-03-30 23:45:06,843 - root - INFO - Loss 0.0017, Acc 0.19
+2024-03-30 23:45:08,883 - root - INFO - Loss 0.0048, Acc 0.04
+2024-03-30 23:47:17,311 - root - INFO - Loss 0.0017, Acc 0.20
+2024-03-30 23:47:19,435 - root - INFO - Loss 0.0047, Acc 0.04
+2024-03-30 23:49:25,514 - root - INFO - Loss 0.0017, Acc 0.20
+2024-03-30 23:49:27,880 - root - INFO - Loss 0.0050, Acc 0.04
+2024-03-30 23:51:36,851 - root - INFO - Loss 0.0017, Acc 0.20
+2024-03-30 23:51:38,834 - root - INFO - Loss 0.0050, Acc 0.04
+2024-03-30 23:53:46,149 - root - INFO - Loss 0.0017, Acc 0.20
+2024-03-30 23:53:48,030 - root - INFO - Loss 0.0048, Acc 0.04
+2024-03-30 23:55:54,951 - root - INFO - Loss 0.0017, Acc 0.21
+2024-03-30 23:55:56,815 - root - INFO - Loss 0.0049, Acc 0.04
+2024-03-30 23:58:05,013 - root - INFO - Loss 0.0017, Acc 0.21
+2024-03-30 23:58:06,990 - root - INFO - Loss 0.0050, Acc 0.04
+2024-03-31 00:00:14,114 - root - INFO - Loss 0.0017, Acc 0.21
+2024-03-31 00:00:16,073 - root - INFO - Loss 0.0050, Acc 0.04
+2024-03-31 00:02:24,064 - root - INFO - Loss 0.0017, Acc 0.21
+2024-03-31 00:02:26,129 - root - INFO - Loss 0.0048, Acc 0.04
+2024-03-31 00:04:35,514 - root - INFO - Loss 0.0017, Acc 0.21
+2024-03-31 00:04:37,582 - root - INFO - Loss 0.0050, Acc 0.04
+2024-03-31 00:06:46,356 - root - INFO - Loss 0.0017, Acc 0.21
+2024-03-31 00:06:48,541 - root - INFO - Loss 0.0049, Acc 0.04
+2024-03-31 00:08:59,051 - root - INFO - Loss 0.0016, Acc 0.22
+2024-03-31 00:09:01,291 - root - INFO - Loss 0.0050, Acc 0.04
+2024-03-31 00:11:09,975 - root - INFO - Loss 0.0016, Acc 0.22
+2024-03-31 00:11:11,758 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 00:13:17,865 - root - INFO - Loss 0.0016, Acc 0.22
+2024-03-31 00:13:19,874 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:15:25,812 - root - INFO - Loss 0.0016, Acc 0.22
+2024-03-31 00:15:27,762 - root - INFO - Loss 0.0050, Acc 0.04
+2024-03-31 00:17:35,784 - root - INFO - Loss 0.0016, Acc 0.22
+2024-03-31 00:17:37,548 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 00:19:45,010 - root - INFO - Loss 0.0016, Acc 0.22
+2024-03-31 00:19:47,105 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 00:21:56,302 - root - INFO - Loss 0.0016, Acc 0.22
+2024-03-31 00:21:58,160 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 00:24:07,235 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:24:09,256 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:26:17,290 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:26:19,057 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:28:25,143 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:28:27,496 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:30:36,299 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:30:38,288 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:32:48,013 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:32:49,701 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:34:59,027 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:35:01,308 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:37:09,599 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:37:11,361 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 00:39:19,632 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:39:21,452 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:41:29,192 - root - INFO - Loss 0.0016, Acc 0.23
+2024-03-31 00:41:31,242 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 00:43:40,613 - root - INFO - Loss 0.0016, Acc 0.24
+2024-03-31 00:43:42,328 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:45:41,100 - root - INFO - Loss 0.0016, Acc 0.24
+2024-03-31 00:45:42,922 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 00:47:44,188 - root - INFO - Loss 0.0016, Acc 0.24
+2024-03-31 00:47:46,070 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 00:49:48,808 - root - INFO - Loss 0.0016, Acc 0.24
+2024-03-31 00:49:51,001 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 00:51:53,956 - root - INFO - Loss 0.0016, Acc 0.24
+2024-03-31 00:51:55,704 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 00:53:59,700 - root - INFO - Loss 0.0016, Acc 0.24
+2024-03-31 00:54:01,602 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 00:56:01,514 - root - INFO - Loss 0.0015, Acc 0.24
+2024-03-31 00:56:03,288 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 00:58:01,648 - root - INFO - Loss 0.0015, Acc 0.24
+2024-03-31 00:58:03,413 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:00:01,258 - root - INFO - Loss 0.0015, Acc 0.24
+2024-03-31 01:00:02,989 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:02:12,144 - root - INFO - Loss 0.0015, Acc 0.24
+2024-03-31 01:02:14,002 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:04:22,569 - root - INFO - Loss 0.0015, Acc 0.24
+2024-03-31 01:04:24,321 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:06:28,492 - root - INFO - Loss 0.0015, Acc 0.24
+2024-03-31 01:06:30,250 - root - INFO - Loss 0.0054, Acc 0.04
+2024-03-31 01:08:34,889 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:08:36,650 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:10:47,264 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:10:49,034 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:12:55,732 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:12:57,452 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:15:07,920 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:15:09,601 - root - INFO - Loss 0.0054, Acc 0.04
+2024-03-31 01:17:05,496 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:17:07,325 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:19:02,272 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:19:04,059 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:20:47,464 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:20:49,153 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:22:44,381 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:22:46,041 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:24:41,103 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:24:42,899 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:26:42,404 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:26:44,142 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 01:28:42,572 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:28:44,276 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:30:41,834 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:30:43,571 - root - INFO - Loss 0.0051, Acc 0.04
+2024-03-31 01:32:27,844 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:32:29,733 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:34:25,569 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:34:27,415 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:36:25,019 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:36:26,768 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:38:24,499 - root - INFO - Loss 0.0015, Acc 0.25
+2024-03-31 01:38:26,201 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:40:24,829 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:40:26,535 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:42:14,982 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:42:16,699 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:44:06,146 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:44:07,904 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:46:05,112 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:46:06,823 - root - INFO - Loss 0.0054, Acc 0.04
+2024-03-31 01:48:06,518 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:48:08,183 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 01:50:06,194 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:50:07,997 - root - INFO - Loss 0.0054, Acc 0.04
+2024-03-31 01:51:46,790 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:51:48,482 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 01:53:47,754 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:53:49,522 - root - INFO - Loss 0.0055, Acc 0.04
+2024-03-31 01:55:45,053 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:55:46,829 - root - INFO - Loss 0.0054, Acc 0.04
+2024-03-31 01:57:38,376 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:57:40,124 - root - INFO - Loss 0.0054, Acc 0.04
+2024-03-31 01:59:36,916 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 01:59:38,765 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 02:01:37,789 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 02:01:39,549 - root - INFO - Loss 0.0052, Acc 0.04
+2024-03-31 02:03:31,620 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 02:03:33,411 - root - INFO - Loss 0.0054, Acc 0.04
+2024-03-31 02:05:30,301 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 02:05:32,073 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 02:07:29,088 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 02:07:30,797 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 02:09:28,774 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 02:09:30,572 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 02:11:25,399 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 02:11:27,150 - root - INFO - Loss 0.0054, Acc 0.04
+2024-03-31 02:13:25,738 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 02:13:27,576 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 02:15:26,443 - root - INFO - Loss 0.0015, Acc 0.26
+2024-03-31 02:15:28,191 - root - INFO - Loss 0.0053, Acc 0.04
+2024-03-31 02:15:28,193 - root - INFO - the date of the experiment: 2024-03-31 02:15:28
