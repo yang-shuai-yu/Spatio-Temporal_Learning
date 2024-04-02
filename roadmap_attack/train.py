@@ -25,6 +25,11 @@ def train(train_loader, model, criterion, optimizer, args):
 
 
 if __name__ == '__main__':
+    '''
+        Usage:
+            python train.py --emb_name transformer_128_train --model_path models/trans128_ --emb_size 128
+    '''
+
     # get parameters
     parser = argparse.ArgumentParser()
     parser.add_argument('--aligned_path', type=str, default='align_data/aligned_gps')
