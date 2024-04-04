@@ -29,7 +29,7 @@ def evaluate(test_loader, model, criterion, args):
                 # predicted is the index of the max k value
                 correct = road_seg_slice.sum().item()
                 accuracy = 100 * correct / total
-                print(f'Accuracy of the network on the test data: {accuracy} %')
+                # print(f'Accuracy of the network on the test data: {accuracy} %')
                 acc_list.append(accuracy)
         print(f'Accuracy of the network on the test data: {np.mean(acc_list)} %')
 
@@ -68,6 +68,10 @@ def prob_evaluate(test_loader, model, criterion, args):
         print(f'Probability of the network on the test data: {100 * correct / total} %')
 
 if __name__ == '__main__':
+    '''
+        Usage:
+            python evaluate.py --emb_name random_256_test --model_path models/eph50_random256_ --emb_size 256 --num_epochs 50
+    '''
     # get parameters
     parser = argparse.ArgumentParser()
     parser.add_argument('--aligned_path', type=str, default='align_data/aligned_gps')
