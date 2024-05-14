@@ -10,6 +10,7 @@ from torch.utils.data import DataLoader
 import torch.nn as nn
 
 def evaluate(test_loader, model, criterion, args):
+    # recall rate
     model.load_state_dict(torch.load(args.model_path+'model.ckpt'))
     model.eval()
     with torch.no_grad():
@@ -51,6 +52,7 @@ def loss_evaluate(test_loader, model, criterion, args):
         
 
 def prob_evaluate(test_loader, model, criterion, args):
+    # accuracy
     model.load_state_dict(torch.load(args.model_path+'model.ckpt'))
     model.eval()
     with torch.no_grad():

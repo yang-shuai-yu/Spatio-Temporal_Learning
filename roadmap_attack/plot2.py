@@ -154,7 +154,7 @@ def pointSort(points):
 
 
 def test(gps_lists, outputs, labels, geo_file, rel_table, args):
-    idx_list = np.random.choice(len(gps_lists), 5, replace=False)
+    idx_list = np.random.choice(len(gps_lists), 10, replace=False)    # select 10 gps trajectories
     print(np.shape(labels), np.shape(outputs))
     selected_labels = labels[idx_list]
     selected_outputs = outputs[idx_list]

@@ -73,10 +73,15 @@ def accuracy(model, dataset, dataloader, args):
             labels = labels * std + mean
             # compute the accuracy
             accuracy = torch.sum(torch.abs(outputs - labels)/labels < 0.2).item() / len(labels)
+            # accuracy = torch.mean(1 - torch.abs(outputs - labels)/labels).item()
             accuracy_list.append(accuracy)
     print('Accuracy: %.3f' % np.mean(accuracy_list))
 
 if __name__ == '__main__':
+    ''' 
+    Usage: 
+        python evaluate.py --emb_path data/random_128_test --model_path models/eph50dim512_random128.pth --epochs 50
+    '''
     # Set up the argument parser
     parser = argparse.ArgumentParser(description='Inversion Distance Model')
     parser.add_argument('--dist_path', type=str, default='data/dist/testdist', help='Path to the distance data')

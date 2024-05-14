@@ -33,6 +33,10 @@ def train(model, dataloader, criterion, optimizer, args):
     print("Finished training")
 
 if __name__ == '__main__':
+    '''
+    Usage: 
+        python train.py --emb_path data/random_128_train --model_path models/eph50dim512_random128.pth --epochs 50
+    '''
     # Set up the argument parser
     parser = argparse.ArgumentParser(description='Inversion Distance Model')
     parser.add_argument('--dist_path', type=str, default='data/dist/traindist', help='Path to the distance data')
